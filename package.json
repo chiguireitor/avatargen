@@ -1,0 +1,27 @@
+{
+  "name": "avatargen",
+  "version": "0.1.0",
+  "description": "An avatar generation library based on layerized PNG images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "avatar",
+    "generation",
+    "procedural"
+  ],
+  "author": {
+    "name": "John Villar \"chiguireitor\"",
+    "email": "johnvillar@contimita.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiguireitor/avatargen.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "directory-tree": "^2.0.0",
+    "jimp": "^0.2.28"
+  }
+}
